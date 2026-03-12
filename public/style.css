@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img{
+    
+    width: 220px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.esquerda {
+   float: left;
+   background-color: antiquewhite;
+    font-size: 15px;
+    margin-right: 50px;
+    border-right: 1px solid #ccc;
+    padding-right: 20px;
+    min-height: 100vh; /* faz o bloco descer até o final da página */
+}
+.direita {
+    
+    margin-top: 50px;
+    float: left;
+    font-size: 15px;
+    color: black;
+}
+
+.sublinhado{
+
+    text-decoration: underline;
+}

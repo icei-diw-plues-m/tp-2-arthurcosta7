@@ -2,9 +2,9 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Arthur de Carvalho Costa
+- Matricula: 910341
 
 ## Print da tela da página criada (Curriculum Vitae)
+    ![Print site](imagens/print.png)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
