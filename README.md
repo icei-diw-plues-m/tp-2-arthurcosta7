@@ -6,5 +6,5 @@
 - Matricula: 910341
 
 ## Print da tela da página criada (Curriculum Vitae)
-    ![Print site](imagens/print.png)
+![Print site](imagens/print.png)
 
